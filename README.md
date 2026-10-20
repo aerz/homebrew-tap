@@ -11,9 +11,9 @@ brew trust --tap aerz/tap
 
 `brew trust --tap` trusts all current and future packages in this tap.
 
-## [Kaygan](https://github.com/aerz/Kaygan.app)
+## Kaygan
 
-Scroll by holding a mouse button and moving the mouse. Use side buttons to go back and forward.
+[Kaygan](https://github.com/aerz/Kaygan.app) lets you scroll by holding a mouse button and moving the mouse. Use side buttons to go back and forward.
 
 ```sh
 brew install --cask kaygan
